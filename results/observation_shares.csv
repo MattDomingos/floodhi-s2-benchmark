@@ -1,0 +1,9 @@
+domain,cloud_free_observations,share_of_domain_pct,share_of_daa_pct
+ROI1,0,0.8762,0.1616
+ROI1,1,14.2302,8.6454
+ROI1,2,51.0513,59.1673
+ROI1,>=3,33.8422,32.0257
+ROI2,0,9.1848,1.8648
+ROI2,1,61.0431,70.9256
+ROI2,2,22.0075,21.1212
+ROI2,>=3,7.7646,6.0884

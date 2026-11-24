@@ -1,0 +1,11 @@
+# Text files are stored with LF line endings, so results rewritten on Windows
+# do not show up as changed only because of CRLF line endings.
+* text=auto eol=lf
+
+# Earth Engine exports and images are archived byte for byte.
+data/exports/** -text
+data/spatial/** -text
+*.png binary
+*.jpg binary
+*.tif binary
+*.npz binary

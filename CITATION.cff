@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this archived release."
+title: "floodhi-s2-benchmark: code and data for a wall-to-wall evaluation of FLOOD-HI and Sentinel-2 water indices (Rio Grande do Sul floods, May 2024)"
+type: software
+version: "1.0.0"
+license: MIT
+# After the first release, remove the "# " in front of the two lines below and fill them in.
+# repository-code: "https://github.com/GITHUB_USER/floodhi-s2-benchmark"
+# doi: "10.5281/zenodo.0000000"
+keywords:
+  - flood mapping
+  - Sentinel-2
+  - Google Earth Engine
+  - water index
+  - accuracy assessment
+  - Rio Grande do Sul
+authors:
+  - family-names: Domingos
+    given-names: Mateus
+    affiliation: "Universidade Estadual de Campinas (Unicamp)"
+    orcid: "https://orcid.org/0000-0002-9336-5396"
+  - family-names: Coelho
+    given-names: Guilherme Palermo
+    affiliation: "Universidade Estadual de Campinas (Unicamp)"
+    orcid: "https://orcid.org/0000-0002-4641-0684"
+  - family-names: Wendland
+    given-names: Edson Cezar
+    affiliation: "Universidade de São Paulo (USP)"
+    orcid: "https://orcid.org/0000-0003-3374-608X"
+  - family-names: Lucas
+    given-names: Murilo Cesar
+    affiliation: "Universidade Estadual de Campinas (Unicamp)"
+    orcid: "https://orcid.org/0000-0002-1732-0241"

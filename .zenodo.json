@@ -1,0 +1,14 @@
+{
+  "title": "floodhi-s2-benchmark: code and data for a wall-to-wall evaluation of FLOOD-HI and Sentinel-2 water indices (Rio Grande do Sul floods, May 2024)",
+  "upload_type": "software",
+  "description": "<p>Google Earth Engine scripts, Python analysis code, Earth Engine exports (class-conditional histograms, confusion counts, random-point samples and maps) and the spatial inputs (study domains and Directly Affected Area) used in the paper <i>Assessing the added value of spectral-index fusion for Sentinel-2 flood mapping: A reproducible wall-to-wall evaluation of the 2024 Rio Grande do Sul State floods</i> (Computers &amp; Geosciences, under review). The archived exports reproduce every table of the paper, including the machine-readable Data S1.</p>",
+  "creators": [
+    {"name": "Domingos, Mateus", "affiliation": "Universidade Estadual de Campinas (Unicamp)", "orcid": "0000-0002-9336-5396"},
+    {"name": "Coelho, Guilherme Palermo", "affiliation": "Universidade Estadual de Campinas (Unicamp)", "orcid": "0000-0002-4641-0684"},
+    {"name": "Wendland, Edson Cezar", "affiliation": "Universidade de São Paulo (USP)", "orcid": "0000-0003-3374-608X"},
+    {"name": "Lucas, Murilo Cesar", "affiliation": "Universidade Estadual de Campinas (Unicamp)", "orcid": "0000-0002-1732-0241"}
+  ],
+  "license": "mit",
+  "keywords": ["flood mapping", "Sentinel-2", "Google Earth Engine", "water index", "accuracy assessment", "Rio Grande do Sul"],
+  "language": "eng"
+}
